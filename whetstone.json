@@ -1,0 +1,22 @@
+{
+    "version": "0.22.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/skael-dev/skael/releases/download/v0.22.0/whetstone_0.22.0_windows_amd64.zip",
+            "bin": [
+                "whetstone.exe"
+            ],
+            "hash": "11edfe9c610205c732620e2ab49b9e6d4b73db254252150ecac20ea523a5819a"
+        },
+        "arm64": {
+            "url": "https://github.com/skael-dev/skael/releases/download/v0.22.0/whetstone_0.22.0_windows_arm64.zip",
+            "bin": [
+                "whetstone.exe"
+            ],
+            "hash": "1d081eb5dfb8df56d6d98e1e3700c7773d34521706b34cc2815be85f72e28664"
+        }
+    },
+    "homepage": "https://skael.dev",
+    "license": "Apache-2.0",
+    "description": "Authoring and evaluation toolkit for AI agent skills"
+}
