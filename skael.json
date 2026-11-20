@@ -1,19 +1,19 @@
 {
-    "version": "0.22.0",
+    "version": "0.23.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skael-dev/skael/releases/download/v0.22.0/skael_0.22.0_windows_amd64.zip",
+            "url": "https://github.com/skael-dev/skael/releases/download/v0.23.0/skael_0.23.0_windows_amd64.zip",
             "bin": [
                 "skael.exe"
             ],
-            "hash": "dcb94a59dbb7bd03d9248b1de215334d40569e54ca26b463ed6af4fccf869bf5"
+            "hash": "ae7a19e2fe0108beed69f3f5c8c70e6dddd0ba1d79ffe102e09f0b10cde46b5a"
         },
         "arm64": {
-            "url": "https://github.com/skael-dev/skael/releases/download/v0.22.0/skael_0.22.0_windows_arm64.zip",
+            "url": "https://github.com/skael-dev/skael/releases/download/v0.23.0/skael_0.23.0_windows_arm64.zip",
             "bin": [
                 "skael.exe"
             ],
-            "hash": "36cf577f7c50f3c1bae997da62f1fa37fe86312c6c18882a6258590a777b638f"
+            "hash": "8146cfe9c212ef73979ecd87562d66a9ffb9bdaa017feb94a8448adcb70176fe"
         }
     },
     "homepage": "https://skael.dev",
