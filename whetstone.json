@@ -1,19 +1,19 @@
 {
-    "version": "0.22.0",
+    "version": "0.23.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skael-dev/skael/releases/download/v0.22.0/whetstone_0.22.0_windows_amd64.zip",
+            "url": "https://github.com/skael-dev/skael/releases/download/v0.23.0/whetstone_0.23.0_windows_amd64.zip",
             "bin": [
                 "whetstone.exe"
             ],
-            "hash": "11edfe9c610205c732620e2ab49b9e6d4b73db254252150ecac20ea523a5819a"
+            "hash": "07e9bd3e97896a93f776b89e1ad3126570ab5834f62986dbb80528dbbd635667"
         },
         "arm64": {
-            "url": "https://github.com/skael-dev/skael/releases/download/v0.22.0/whetstone_0.22.0_windows_arm64.zip",
+            "url": "https://github.com/skael-dev/skael/releases/download/v0.23.0/whetstone_0.23.0_windows_arm64.zip",
             "bin": [
                 "whetstone.exe"
             ],
-            "hash": "1d081eb5dfb8df56d6d98e1e3700c7773d34521706b34cc2815be85f72e28664"
+            "hash": "3d14cd078ce17a1f07f60e970cff2510010982e1bf320e31f60d682e4065b610"
         }
     },
     "homepage": "https://skael.dev",
